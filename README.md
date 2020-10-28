@@ -1,4 +1,2 @@
-# location
-Doodling with JavaScript
-
-Two sample scripts: a visual representation of Prim's algorithm and the game of snake.
+# Labyrinth
+Part 1 of Doodling with JavaScript
